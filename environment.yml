@@ -1,0 +1,11 @@
+name: math156
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - pillow
+  - jupyter
+  - ipykernel
